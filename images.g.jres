@@ -4,6 +4,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage"
     },
+    "image2": {
+        "data": "hwQUABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOAOAJmZ6ZndAAAA4O7uAJmZ6ZndAAAA4N7dnZmZ6ZndAAAA4N7dnZmZ6ZndAAAA4N7d3ZmZ6ZkAAAAA4N7d3ZmZ6ZkAAAAA7t3dnZmZ6ZndAAAA7t3dnZmZ6ZndAAAA4O7uDpmZ6ZndAAAA4O7uDpmZ6ZndAAAAAADuAAAAAAAAAAAAAADuAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Ulisses"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
