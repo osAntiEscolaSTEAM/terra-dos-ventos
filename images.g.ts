@@ -141,6 +141,25 @@ namespace myImages {
 .........dd.........
 .........ff.........
 `;
+            case "image8":
+            case "myImage6":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. b b b b b b b b b b b b b b . 
+. b b b b b b b b b b b b b b . 
+. . b b b b b b b b b b b b . . 
+. . b b b b b b b b b b b b . . 
+. . . b b b b b b b b b b . . . 
+. . . b b b b b b b b b b . . . 
+. . . . b b b b b b b b . . . . 
+. . . . b b b b b b b b . . . . 
+. . . . . b b b b b b . . . . . 
+. . . . . b b b b b b . . . . . 
+. . . . . . b b b b . . . . . . 
+. . . . . . b b b b . . . . . . 
+. . . . . . . b b . . . . . . . 
+`;
         }
         return null;
     })
