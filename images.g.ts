@@ -160,6 +160,25 @@ bbbbbbbbbbbbbbbbbbbb
 ........bbbb........
 .........bb.........
 `;
+            case "image8":
+            case "myImage6":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. b b b b b b b b b b b b b b . 
+. b b b b b b b b b b b b b b . 
+. . b b b b b b b b b b b b . . 
+. . b b b b b b b b b b b b . . 
+. . . b b b b b b b b b b . . . 
+. . . b b b b b b b b b b . . . 
+. . . . b b b b b b b b . . . . 
+. . . . b b b b b b b b . . . . 
+. . . . . b b b b b b . . . . . 
+. . . . . b b b b b b . . . . . 
+. . . . . . b b b b . . . . . . 
+. . . . . . b b b b . . . . . . 
+. . . . . . . b b . . . . . . . 
+`;
         }
         return null;
     })
