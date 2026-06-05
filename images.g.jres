@@ -39,11 +39,6 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage4"
     },
-    "image9": {
-        "data": "hwQUABQAAAAAAAAAAAsAAAAAAAAAAAAAALsAAAAAAAAAAAAAALsLAAAAAAAAAAAAALu7AAAAAAAAAAAAALu7CwAAAAAAAAAAALu7uwAAAAAAAAAAALu7uwsAAAAAAAAAALu7u7sAAAAAAAAAALu7u7sLAAAAAAAAALu7u7u7AAAAAAAAALu7u7u7AAAAAAAAALu7u7sLAAAAAAAAALu7u7sAAAAAAAAAALu7uwsAAAAAAAAAALu7uwAAAAAAAAAAALu7CwAAAAAAAAAAALu7AAAAAAAAAAAAALsLAAAAAAAAAAAAALsAAAAAAAAAAAAAAAsAAAAAAAA=",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "myImage5"
-    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
